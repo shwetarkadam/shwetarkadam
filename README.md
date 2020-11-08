@@ -1,16 +1,15 @@
 ### Hi there, I'm Shweta Kadam - aka [codeSTACKr][blog] ðŸ‘‹
 
-[![blog](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![blog](https://img.shields.io/website?label=Medium Blog&style=for-the-badge&url=https://medium.com/@shwetarkadam25)](https://medium.com/@shwetarkadam25)
 
 ## I'm an Engineer, Developer and Student!!
 
 
-- ðŸŒ± Iâ€™ I'm currently learning everything  ðŸ¤£
-- ðŸ‘¯ Iâ€™m looking to collaborate with other developers.
-- ðŸ¢ I  currently work at Oracle Financial Software services.
-- ðŸ¥… 2020 Goals: Learn cloud technology and make POC projects on AWS
-- âš¡ Fun fact: I love to do food photgraphy and ocassionally bake from time to time.
+-🌱 I'm currently learning everything  🤣
+-👯 I'm looking to collaborate with other developers.
+-💼 I currently work at Oracle Financial Software services.
+-⚡ 2020 Goals: Learn cloud technology and make POC projects on AWS
+-🥅 Fun fact: I love to do food photgraphy and ocassionally bake from time to time.
 
 
 
@@ -48,20 +47,6 @@
 
 ---
 
-### ðŸ“º Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Easy VS Code Docker Remote Containers | Dockerize Development Environment Easily with VS Code (2020)](https://www.youtube.com/watch?v=KFyRLxiRKAc)
-- [Build a GOOGLE Clone with Tailwind CSS - How Google was Built in the 90s vs TODAY!](https://www.youtube.com/watch?v=8ETmAEf793g)
-- [6 Amazing Tips to Successfully Freelance in Web Development (2020)](https://www.youtube.com/watch?v=e9UvzZJflqU)
-- [Top VS Code Updates | v1.50 Released!! | Tips & Tricks 2020](https://www.youtube.com/watch?v=WYIelDSS738)
-- [NEW GitHub CLI 1.0 Tutorial | FREE Swag! | Hacktoberfest UPDATE | Step-by-Step Guide | Web Developer](https://www.youtube.com/watch?v=Uzcr9YrdODU)
-<!-- YOUTUBE:END -->
-
-âž¡ï¸ [more videos...](https://youtube.com/codestackr)
-
----
-
 ### ðŸ“• Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -84,13 +69,10 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/shweta-kadam-81404512a/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[instagram]: https://instagram.com/shwetarkadam
+[youtube]: https://www.youtube.com/channel/UClIPC7YH-EhOm0MwiIJ-yfw
+[twitter]: https://twitter.com/ShwetaRKadam
+
+
+
