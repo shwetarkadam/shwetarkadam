@@ -2,6 +2,8 @@
 ### Hi there, I'm Shweta Kadam 
 [![blog](https://img.shields.io/website?label=MyMediumBlog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://medium.com/@shwetarkadam25)
 
+Fixing more things than I break, creating new things that don't break as often.
+
 
 ## I'm an Engineer, Developer and Student!!
 
