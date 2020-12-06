@@ -1,5 +1,5 @@
 
-### Hi there, I'm Shweta Kadam 
+### Hi there, I'm Shweta Kadam 👋
 
 
 
@@ -12,7 +12,7 @@
 <!--
 ![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)-->
 
-Fixing more things than I break, creating new things that don't break as often.
+> Fixing more things than I break, creating new things that don't break as often.
 
 
 ## I'm an Engineer, Developer and Student!!
