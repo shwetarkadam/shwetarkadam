@@ -75,6 +75,14 @@
 ![windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 
 ---
+
+
+### My Latest Posts from Medium:
+
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
+
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
