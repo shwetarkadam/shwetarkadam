@@ -1,4 +1,4 @@
-name: LatestMedium activity
+name: Latest Medium activity
 on:
   schedule:
     # Runs every 5 minutes
