@@ -25,7 +25,7 @@
 -🥅 Fun fact: I love to do food photography and occasionally bake from time to time.<br/>
 
 
-
+<!--
 ### Connect with me:
 
 
@@ -35,6 +35,7 @@
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
+-->
 
 ### Languages and Tools:
 
