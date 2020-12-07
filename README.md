@@ -79,7 +79,13 @@
 
 ### My Latest Posts from Medium:
 
-<!-- MEDIUM:START --><!-- MEDIUM:END -->
+<!-- MEDIUM:START -->
+- [CNN Series Part 2: What is meant by Convolution?](https://medium.com/@shwetarkadam25/cnn-series-part-2-what-is-meant-by-convolution-c504f38c42b?source=rss-a181b7d756c------2)
+- [CNN Series Part 1: How do computers see images?](https://medium.com/analytics-vidhya/cnn-series-part-1-how-do-computers-see-images-32462a0b33ca?source=rss-a181b7d756c------2)
+- [Neural Networks Part 3: Understanding Back propagation & Learning Rates](https://medium.com/analytics-vidhya/neural-networks-part-3-understanding-back-propagation-learning-rates-3482a981a2f0?source=rss-a181b7d756c------2)
+- [Neural Networks Part  2: Building Neural Networks & Understanding Gradient Descent.](https://medium.com/analytics-vidhya/neural-networks-part-2-building-neural-networks-understanding-gradient-descent-145718e91270?source=rss-a181b7d756c------2)
+- [Neural Network Part1:Inside a single neuron](https://medium.com/analytics-vidhya/neural-network-part1-inside-a-single-neuron-fee5e44f1e?source=rss-a181b7d756c------2)
+<!-- MEDIUM:END -->
 
 
 <details>
