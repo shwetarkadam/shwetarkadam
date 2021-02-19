@@ -1,7 +1,7 @@
 name: Latest Medium activity
 on:
   schedule:
-    # Runs every 5 minutes
+    # Runs every 8 am utc
     - cron: '0 8 * * *'
 
 jobs:
