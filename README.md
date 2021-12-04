@@ -21,7 +21,7 @@
 -🌱 I'm currently learning Github Actions with Docker  🤣<br/>
 -👯 I'm looking to collaborate with other developers.<br/>
 -💼 I currently work at Boku .<br/>
--⚡ 2020 Goals: Learn AWS and make POC projects on AWS.<br/>
+-⚡ 2020 Goals: Learning bit by bit about distributed syste.<br/>
 -🥅 Fun fact: I love to do food photography and occasionally bake from time to time.<br/>
 
 
