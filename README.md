@@ -94,8 +94,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="shwetarkadam's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shwetarkadam&show_icons=true&hide_border=true" />
-
+<img  src="https://github-readme-stats.vercel.app/api?username=shwetarkadam&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="shwetarkadam">
 </details>
 
 [linkedin]: https://www.linkedin.com/in/shweta-kadam-81404512a/
