@@ -12,7 +12,7 @@
 <!--
 ![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)-->
 
-> Fixing more things than I break, creating new things that don't break as often.
+> Fixing more things than I break, creating new things that don't break as often. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
 
 ## I'm an Engineer, Developer and Student!!
