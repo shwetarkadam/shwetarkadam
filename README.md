@@ -19,62 +19,24 @@
 
 
 -🌱 I'm currently learning Github Actions with Docker  🤣<br/>
--👯 I'm looking to collaborate with other developers.<br/>
 -💼 I currently work at Boku .<br/>
--⚡ 2020 Goals: Learning bit by bit about distributed syste.<br/>
--🥅 Fun fact: I love to do food photography and occasionally bake from time to time.<br/>
+-⚡ 2020 Goals: Learning bit by bit about distributed systems.<br/>
+<br/>
 
-
-<!--
-### Connect with me:
-
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-<br />
--->
 
 ### Languages and Tools:
 
-
-![Java](https://img.shields.io/badge/java%20-brown.svg?&style=for-the-badge&logo=java&ogoColor=white)
-![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-![Mysql](https://img.shields.io/badge/mysql-purple.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![Mongo](https://img.shields.io/badge/mongo-darkgreen.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-
-<!--
-![Numpy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/TensorFlow%20-%23430098.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
-![SkLearn](https://img.shields.io/badge/SkLearn%20-%23E34F26.svg?&style=for-the-badge&logo=scikit%20learn&logoColor=white)
-
-![Heorku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab%20-%2320232a.svg?&style=for-the-badge&logo=google&logoColor=white)
--->
-
-
-![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![BootStrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-![ReactJs](https://img.shields.io/badge/reactjs%20-%231572B6.svg?&style=for-the-badge&logo=react&logoColor=white)
-![Nodejs](https://img.shields.io/badge/nodejs%20-%23092E20.svg?&style=for-the-badge&logo=nodejs&logoColor=white)
-![Flask](https://img.shields.io/badge/flask%20-%2307405e.svg?&style=for-the-badge&logo=flask&logoColor=white)
-
-![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
-
-![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
-![windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
-
+<p align="left">
+<img src="https://cdn.svgporn.com/logos/java.svg" alt="java" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/spring-icon.svg" alt="spring" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker" width="25" height="25" /> 
+<img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="25" height="25" />
+ <img src="https://cdn.svgporn.com/logos/git.svg" alt="git" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/python.svg" alt="python" width="25" height="25" />
+    
+</p>
 ---
 
 
