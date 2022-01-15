@@ -4,9 +4,9 @@
 
 
 [![Portfolio](https://img.shields.io/badge/portfolio-%231572B6.svg?&style=for-the-badge&logo=portfolio&logoColor=white)](https://shwetarkadam.github.io/portfolio/)
-[![Medium](https://img.shields.io/badge/medium-%2320232a.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shwetarkadam25)
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shweta-kadam-81404512a/)
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:shwetakadam.portfolio@gmail.com)
+[![Blog](https://img.shields.io/badge/BLOG-%231572B6.svg?&style=for-the-badge&logo=blog&logoColor=white)](https://www.codeklutz.com/)
 
 
 <!--
