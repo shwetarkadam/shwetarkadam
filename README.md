@@ -18,7 +18,7 @@
 ## I'm an Engineer, Developer and Student!!
 
 
--🌱 I'm currently learning Github Actions with Docker  🤣<br/>
+-🌱 My current learning and thought process at [Letters](https://letters.codeklutz.com)<br/>
 -💼 I currently work at Boku .<br/>
 -⚡ 2020 Goals: Learning bit by bit about distributed systems.<br/>
 <br/>
