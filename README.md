@@ -7,7 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shweta-kadam-81404512a/)
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:shwetakadam.portfolio@gmail.com)
 [![Blog](https://img.shields.io/badge/BLOG-%231572B6.svg?&style=for-the-badge&logo=blog&logoColor=white)](https://www.codeklutz.com/scheduling/java/spring/spring%20boot/events/sql/mysql/Spring-boot-cron-job-scheduled-tasks-vs-Events-in-Mysql/)
-
+[![Braindump](https://img.shields.io/badge/BRAINDUMP-D14836.svg?&style=for-the-badge&logo=braindump&logoColor=white)](https://www.notes.codeklutz.com/about)
 
 <!--
 ![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)-->
