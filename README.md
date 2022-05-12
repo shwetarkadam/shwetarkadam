@@ -20,19 +20,9 @@
 
 -🌱 My current learning and thought process at [Letters](https://letters.codeklutz.com)<br/>
 -💼 I currently work at Boku .<br/>
--⚡ 2020 Goals: Learning bit by bit about distributed systems.<br/>
+-⚡ 2022 Goals: Learning bit by bit about distributed systems.<br/>
 <br/>
 
-
-### My Latest Posts from Medium:
-
-<!-- MEDIUM:START -->
-- [Deploying my portfolio website on Github Pages using Github Actions.](https://medium.com/analytics-vidhya/deploying-my-portfolio-website-on-github-pages-using-github-actions-2d1ae175321b?source=rss-a181b7d756c------2)
-- [CNN Series Part 2: What is meant by Convolution?](https://shwetarkadam25.medium.com/cnn-series-part-2-what-is-meant-by-convolution-c504f38c42b?source=rss-a181b7d756c------2)
-- [CNN Series Part 1: How do computers see images?](https://medium.com/analytics-vidhya/cnn-series-part-1-how-do-computers-see-images-32462a0b33ca?source=rss-a181b7d756c------2)
-- [Neural Networks Part 3: Understanding Back propagation &amp; Learning Rates](https://medium.com/analytics-vidhya/neural-networks-part-3-understanding-back-propagation-learning-rates-3482a981a2f0?source=rss-a181b7d756c------2)
-- [Neural Networks Part  2: Building Neural Networks &amp; Understanding Gradient Descent.](https://medium.com/analytics-vidhya/neural-networks-part-2-building-neural-networks-understanding-gradient-descent-145718e91270?source=rss-a181b7d756c------2)
-<!-- MEDIUM:END -->
 
 
 ![visitors](https://badges.pufler.dev/visits/shwetarkadam/shwetarkadam)
@@ -42,11 +32,4 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=shwetarkadam&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="shwetarkadam">
 </details>
-
-[linkedin]: https://www.linkedin.com/in/shweta-kadam-81404512a/
-[instagram]: https://instagram.com/shwetarkadam
-[youtube]: https://www.youtube.com/channel/UClIPC7YH-EhOm0MwiIJ-yfw
-[twitter]: https://twitter.com/ShwetaRKadam
-
-
 
