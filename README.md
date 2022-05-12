@@ -18,7 +18,7 @@
 ## I'm an Engineer, Developer and Student!!
 
 
--🌱 My current learning and thought process at [Letters](https://letters.codeklutz.com)<br/>
+-🌱 My current learning and thought process at [Braindump](https://notes.codeklutz.com)<br/>
 -💼 I currently work at Boku .<br/>
 -⚡ 2022 Goals: Learning bit by bit about distributed systems.<br/>
 <br/>
