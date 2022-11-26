@@ -25,7 +25,6 @@
 
 
 
-![visitors](https://badges.pufler.dev/visits/shwetarkadam/shwetarkadam)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
