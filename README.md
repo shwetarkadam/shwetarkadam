@@ -26,20 +26,15 @@
  Fixing more things than I break, creating new things that don't break as often.
 
 
-## I'm an Engineer, Developer and Student!!
+## I'm an Engineer, Developer and Learner!!
 
 
--🌱 My current learning and thought process at [Braindump](https://notes.codeklutz.com)<br/>
--💼 I currently work at Boku .<br/>
--⚡ 2022 Goals: Learning bit by bit about distributed systems.<br/>
+
+-💼 I currently work at Boku.<br/>
+-⚡ Current Year Goals: Learning bit by bit about distributed systems, Kubernetes .<br/>
 <br/>
 
 
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-<img  src="https://github-readme-stats.vercel.app/api?username=shwetarkadam&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="shwetarkadam">
-</details>
 
