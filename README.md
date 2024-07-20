@@ -30,9 +30,6 @@
 
 
 
--💼 I currently work at Boku.<br/>
--⚡ Current Year Goals: Learning bit by bit about distributed systems, Kubernetes .<br/>
-<br/>
 
 
 
