@@ -22,9 +22,7 @@
 -->
 <!--
 ![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)-->
-
- Fixing more things than I break, creating new things that don't break as often.
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=99ABE9&width=435&lines=Fixing+more+than+I+break%2C;Creating+durable+new+things)](https://git.io/typing-svg)
 
 ## I'm an Engineer, Developer and Learner!!
 
