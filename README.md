@@ -26,5 +26,50 @@
 
 ## I'm an Engineer, Developer and Learner!!
 
+## About Me
+
+Backend engineer with 6 years of experience building production systems — especially in fintech.
+
+I work on systems that handle real money, real failures, and real scale.
+
+
+---
+
+## Tech Stack
+
+**Languages:**  
+`Java` `Node.js` `TypeScript` `Python`
+
+**Frameworks & Libraries:**  
+`Spring Boot` `Express` `REST APIs`
+
+**Infra & Tools:**  
+`AWS` `Docker` `Kubernetes` `Vault` `Linux` `Git`
+
+---
+
+## 🚀 What I've Built
+
+- **clipd** — Clipboard that actually remembers. Multi-slot, background daemon, zero UX change.  
+- **certflow** — Automated certificate renewal via secure webhooks + Vault integration using n8n
+
+---
+
+## 📊 How I Think
+
+- Design for **failure first**, not happy paths  
+- Optimize for **production reality**, not demos  
+- Reduce human dependency in systems  
+- Care about **latency, reliability, and blast radius**  
+
+---
+
+## 📬 Contact
+
+- LinkedIn: https://www.linkedin.com/in/shwetarkadam/  
+- Blog: https://shwetakadam.com
+- Notes: https://notes.codeklutz.com  
+
+
 
 
