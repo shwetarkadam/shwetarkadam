@@ -30,7 +30,6 @@
 
 Backend engineer with 6 years of experience building production systems — especially in fintech.
 
-I work on systems that handle real money, real failures, and real scale.
 
 
 ---
